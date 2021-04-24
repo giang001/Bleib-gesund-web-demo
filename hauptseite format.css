@@ -25,7 +25,7 @@
 #a {
     height:230px; 
     width: 230px;        
-    margin: 1.5% 6% 2% 12%;
+    margin: 1.5% 6% 2% 10%;
 	border-radius:10px;
 	box-shadow:10px 10px 40px #69b822;  
  }
@@ -50,7 +50,7 @@
     font-family: Verdana, sans-serif;
     font-weight: bold;
 	text-align: center;
-	margin: 1% 5% 2% 12%;
+	margin: 1% 4% 2% 12%;
 	display: inline-block;
 }
 #tipp2 {
@@ -59,7 +59,7 @@
     font-family: Verdana, sans-serif;
     font-weight: bold;
 	text-align: center;
-	margin: 1% 5% 2% 5%;
+	margin: 1% 4% 2% 4%;
 	display: inline-block;
 }
 
@@ -69,6 +69,6 @@
     font-family: Verdana, sans-serif;
     font-weight: bold;
 	text-align: center;
-	margin: 1% 5% 2% 5%;
+	margin: 1% 4% 2% 4%;
 	display: inline-block;
 }
