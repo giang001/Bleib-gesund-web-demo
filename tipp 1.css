@@ -26,7 +26,7 @@ p {
 	text-align: justify;
 	line-height: 1.6;
 	font-size: large;
-	width: 1100px;
+	width: 75%;
 	margin-left: auto;
     margin-right: auto;
 }
@@ -44,7 +44,7 @@ ul {
 	text-align: justify;
 	line-height: 1.6;
 	font-size: large;
-	width: 1000px;
+	width: 75%;
 	list-style-position: inside;
 	margin-left: 150px;
     margin-right: 100px;
@@ -60,9 +60,10 @@ body {
  .content-box1 {
         border-radius:10px;
         margin: 1% 4% 4% 4%;
-		padding: 3% 4% 4% 3%;
+		padding: 3% 1% 4% 1%;
 		display: inline-block;
         background: white;
         text-align: left;
+		height: fit-content;
 		box-shadow:10px 10px 40px #7ccc34;  
     }
