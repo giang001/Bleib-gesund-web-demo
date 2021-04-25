@@ -52,15 +52,14 @@
 	border-radius:10px;
 	box-shadow:10px 10px 40px #69b822;  
  }
- 
- #tipp1 {
+  #tipp1 {
     overflow: hidden;
 	color:#01ac0d;
     font-family: Verdana, sans-serif;
     font-weight: bolder;
-	font-size: 21px;
+	font-size: 30px;
 	text-align: center;
-	margin: 1% 4% 2% 10.5%;
+	margin: 0.5% 9% 2% 18%;
 	display: inline-block;
 }
 #tipp2 {
@@ -68,9 +67,9 @@
 	color:#01ac0d;
     font-family: Verdana, sans-serif;
     font-weight: bolder;
-	font-size: 21px;
+	font-size: 30px;
 	text-align: center;
-	margin: 1% 4% 2% 3.5%;
+	margin: 0.5% 9% 2% 9%;
 	display: inline-block;
 }
 
@@ -79,8 +78,8 @@
 	color:#01ac0d;
     font-family: Verdana, sans-serif;
     font-weight: bolder;
-	font-size: 21px;
+	font-size: 30px;
 	text-align: center;
-	margin: 1% 0% 2% 3.5%;
+	margin: 0.5% 0% 2% 9%;
 	display: inline-block;
 }
